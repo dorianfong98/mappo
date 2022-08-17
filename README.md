@@ -29,8 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 [Mappo™]() is a straightforward map web application built using [Mapbox](https://www.mapbox.com/)'s API, inspired by Google Maps. You may check out Mapbox's GL JS documentation [here](https://docs.mapbox.com/mapbox-gl-js/) and obtain an access token to get started using their API [here](https://docs.mapbox.com/help/getting-started/access-tokens/).
 
 I started this as a personal mini project to dip my toes into the world of APIs. 
