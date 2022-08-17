@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Mapbox CDN (GL JS ) -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+
+<!-- Mapbox Directions CDN -->
+  <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css"
+    type="text/css"
+  />
+  
+  <title>Mappo™ by Dorian</title>
+  <style>
+    body {
+      /* No margin for it to be completely fullscreen */
+      margin: 0;
+    }
+
+    #map {
+      /* To make map take up the full screen  */
+      height: 100vh;
+      width: 100vw;
+    }
+  </style>
+
+  <!-- defer script to ensure that it loads after body -->
+  <script src="script.js" defer></script> 
+</head>
+
+<body>
+  <div id='map'></div>
+
+  <!-- For Splash Screen showing logo -->
+  <div class="intro">
+    <h1 class="logo-header">
+      <span class="logo">Mappo™</span>
+      <span class="logo">by Dorian Fong</span>
+    </h1>
+  </div>
+
+  <script src="splashscreen.js"></script>
+ 
+</body>
+</html>
