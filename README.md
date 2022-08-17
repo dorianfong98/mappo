@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Mappo™]() is a straightforward map web application built using [Mapbox](https://www.mapbox.com/)'s API, inspired by Google Maps. You may check out Mapbox's GL JS documentation [here](https://docs.mapbox.com/mapbox-gl-js/) and obtain an access token to get started using their API [here](https://docs.mapbox.com/help/getting-started/access-tokens/).
+[Mappo™](https://mappo-gilt.vercel.app/) is a straightforward map web application built using [Mapbox](https://www.mapbox.com/)'s API, inspired by Google Maps. You may check out Mapbox's GL JS documentation [here](https://docs.mapbox.com/mapbox-gl-js/) and obtain an access token to get started using their API [here](https://docs.mapbox.com/help/getting-started/access-tokens/).
 
 I started this as a personal mini project to dip my toes into the world of APIs. 
 
@@ -65,10 +65,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Dorian Fong - [My Website](https://dorianfong98.github.io/) [My Email](mailto:dorianfong@u.nus.edu) [My LinkedIn](https://www.linkedin.com/in/dorianfong/)
+Dorian Fong - [My Website](https://dorianfong98.github.io/) | [My Email](mailto:dorianfong@u.nus.edu) | [My LinkedIn](https://www.linkedin.com/in/dorianfong/)
 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Mappo™](https://mappo-gilt.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
